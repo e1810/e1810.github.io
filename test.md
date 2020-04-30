@@ -5,4 +5,5 @@ permalink: /test
 ---
 
 Test page
+<p>test text</p>
 
