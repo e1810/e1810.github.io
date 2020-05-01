@@ -1,2 +1,3 @@
-@import url(/assets/main.css);
-body { background-color: red; }
+@import url(assets/main.css);
+#home h1 { font-weight: bold; }
+#home h2 { margin: 0%; }
