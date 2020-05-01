@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+parmalink: /
 ---
 
 <h1 style="margin:0%">Projects</h1>
